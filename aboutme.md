@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
+大家好,我是lotusdezcliff。我是一名熱衷於計算機科學和數學的愛好者,同時也對語言學習感興趣。
 
-My name is Inigo Montoya. I have the following qualities:
+我對計算機科學和數學有著濃厚的興趣。我一直在自學研究各種算法和數學模型,並努力將其應用於實際問題的解決中。同時,我也熱衷於學習新的程式語言和數據分析技能,不斷充實和提升自己。
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+除了計算機科學和數學,我也是一個語言愛好者。除了母語中文之外,我還學習英語、葡萄牙語和日語。我樂於利用這些語言技能與來自不同文化背景的人進行交流和合作。
 
-What else do you need?
+在工作和學習中,我注重以用戶/問題需求為導向,努力提供出色的解決方案。我喜歡接受新的技術挑戰,並致力於不斷提升自己的技能水平。同時,我也非常注重團隊合作,希望能夠與其他專業人士通力合作,共同推動項目的成功。
 
-### My story
+如果您對我的經歷和興趣感興趣,歡迎通過以下方式與我聯繫:
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+電子郵箱：lotusdezcliff@gmail.com
+GitHub：https://github.com/lotusdezcliff
